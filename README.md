@@ -22,6 +22,4 @@ Hello! I'm <strong> Achint Tiwari </strong> 👋<br>Welcome to my corner of the 
 ![](https://github-contributor-stats.vercel.app/api?username=achinttiwari&limit=5&theme=maroongold&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=achinttiwari&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
