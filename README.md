@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+Hello! I'm Achint Tiwari 👋<br>Welcome to my corner of the digital universe! I’m currently navigating the exciting world of Computer Science and Engineering (B.Tech, Class of 2028), and I’m having the time of my life while doing it.<br><br>What Makes Me Tick<br>My heart is firmly set on the fascinating fields of Artificial Intelligence and Machine Learning. I’m constantly diving into the depths of algorithms, training models, and exploring the endless possibilities of what code can achieve. But it's not just about the theory—I love getting my hands dirty with projects, turning abstract ideas into functional (and sometimes delightfully experimental) code.<br><br>The "Vibecoding" Philosophy<br>Beyond the heavy-duty research and development, I’m a firm believer in the art of "vibecoding." Every now and then, I love to build "useless" but incredibly fun things just for the joy of creation. It’s my way of staying creative, keeping the process light, and remembering that tech should be as enjoyable as it is powerful!<br><br>Where You'll Find Me<br>When I’m not deep in a training loop, you’ll likely find me sharpening my problem-solving skills on my favorite platforms. I’m a constant traveler across:<br><br>Kaggle – [kaggle.com/achinttiwari] Wrestling with datasets and learning from the community.<br><br>LeetCode & NeetCode [leetcode.com/u/AchintTiwari/] – The daily bread and butter of algorithmic challenges.<br><br>HackerRank & Codeforces [hackerrank.com/profile/achinttiwari] – Keeping the competitive spirit alive and well.<br><br>My Journey<br>I’m a free soul who loves the feeling of forward momentum. My journey isn't just about reaching a destination; it's about the thrill of trying new things, breaking stuff, fixing it, and enjoying the view along the way. I’m always open to exploring fresh horizons and collaborating with fellow tech enthusiasts who share a passion for building cool stuff.<br><br>Let’s connect! Whether you want to talk about the latest in AI, trade competitive coding tips, or just want to share a fun side project, my door is always open. 🚀
 
-<!--
-**achinttiwari/achinttiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achint.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achinttiwari) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/achinttiwari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32925970) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFsTcgNL1yiGMSNoY6B32bw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achinttiwari4@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=achinttiwari&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=achinttiwari&theme=maroongold&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=achinttiwari&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=achinttiwari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=achinttiwari&limit=5&theme=maroongold&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=achinttiwari&icon=7&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
