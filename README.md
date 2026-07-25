@@ -79,6 +79,7 @@ Becoming an AI Engineer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
@@ -92,10 +93,10 @@ Becoming an AI Engineer
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achinttiwari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&ring_color=10B981"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=achinttiwari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&ring_color=10B981&cache_seconds=86400"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=achinttiwari&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinttiwari&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinttiwari&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8&cache_seconds=86400"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=achinttiwari&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true"/>
 
@@ -129,6 +130,28 @@ The Pac-Man widget above needs a small GitHub Action to generate itself (GitHub 
 2. Paste in the contents of the provided `pacman-contributions.yml` file
 3. Push the change, then go to the **Actions** tab → run the workflow once manually
 4. It will generate an `output` branch containing the SVG — after that, it refreshes automatically every day
+
+</details>
+
+<details>
+<summary><b>🩺 Troubleshooting: terminal intro not showing</b></summary>
+<br/>
+
+If the terminal graphic at the top shows a broken image icon instead of the animation:
+
+1. Confirm `assets/terminal-intro.svg` was actually committed to the repo, at the exact path `assets/terminal-intro.svg` (case-sensitive), on your default branch
+2. If it's there and still broken, swap the `src` in the README's `<img src="./assets/terminal-intro.svg">` line for this jsDelivr CDN link instead, which is more reliable for custom repo-hosted SVGs:
+   `https://cdn.jsdelivr.net/gh/achinttiwari/achinttiwari@main/assets/terminal-intro.svg`
+
+</details>
+
+<details>
+<summary><b>🩺 Troubleshooting: stats/top-languages cards not showing</b></summary>
+<br/>
+
+The `github-readme-stats.vercel.app` service (used for the main stats card and top-languages card) is a free public instance that's had frequent outages and rate-limit issues recently — this is a widely reported problem with the service itself, not something wrong in your README. The streak-stats card runs on a separate, more stable service, which is why it tends to keep working even when the others don't.
+
+If it's down for you: it usually resolves within a few hours, so a refresh later often fixes it. If you want a permanently reliable version instead of depending on the public API, let me know and I can set you up with an Action-based version (same idea as the Pac-Man graph — generates a static image daily instead of relying on a live service).
 
 </details>
 
