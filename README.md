@@ -1,25 +1,135 @@
-# 💫 About Me:
+<div align="center">
 
-Hello! I'm <strong> Achint Tiwari </strong> 👋<br>Welcome to my corner of the digital universe! I’m currently navigating the exciting world of Computer Science and Engineering (B.Tech, Class of 2028), and I’m having the time of my life while doing it.<br><br><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dlokzcb-553683f4-7ce4-4860-8d5e-bba66aa1c765.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGxva3pjYi01NTM2ODNmNC03Y2U0LTQ4NjAtOGQ1ZS1iYmE2NmFhMWM3NjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0Almd7zqhTWJJoJ-uLs_YngHzX-CHu5GjtuSfcadrng"><br> <b>What Makes Me Tick</b><br>My heart is firmly set on the fascinating fields of Artificial Intelligence and Machine Learning. I’m constantly diving into the depths of algorithms, training models, and exploring the endless possibilities of what code can achieve. But it's not just about the theory—I love getting my hands dirty with projects, turning abstract ideas into functional (and sometimes delightfully experimental) code.<br><br> <b>The "Vibecoding" Philosophy </b><br>Beyond the heavy-duty research and development, I’m a firm believer in the art of "vibecoding." Every now and then, I love to build "useless" but incredibly fun things just for the joy of creation. It’s my way of staying creative, keeping the process light, and remembering that tech should be as enjoyable as it is powerful!<br><br> <b>Where You'll Find Me</b> <br>When I’m not deep in a training loop, you’ll likely find me sharpening my problem-solving skills on my favorite platforms. I’m a constant traveler across:<br><br><b>Kaggle</b> –  Wrestling with datasets and learning from the community.<br><br><b>LeetCode & NeetCode</b>  – The daily bread and butter of algorithmic challenges.<br><br><b>HackerRank & Codeforces</b>  – Keeping the competitive spirit alive and well.<br><br><b>My Journey</b><br>I’m a free soul who loves the feeling of forward momentum. My journey isn't just about reaching a destination; it's about the thrill of trying new things, breaking stuff, fixing it, and enjoying the view along the way. I’m always open to exploring fresh horizons and collaborating with fellow tech enthusiasts who share a passion for building cool stuff.<br><br><b>Let’s connect!<b> Whether you want to talk about the latest in AI, trade competitive coding tips, or just want to share a fun side project, my door is always open. 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=220&section=header&text=Achint%20Tiwari&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Undergrad&descAlignY=55&descSize=18&descColor=10B981" width="100%"/>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achint.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achinttiwari) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/achinttiwari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32925970) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFsTcgNL1yiGMSNoY6B32bw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achinttiwari4@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/AchintTiwari/) [![Codeforces](https://img.shields.io/badge/Codeforces-448AFF?logo=codeforces&logoColor=white)](https://codeforces.com/profile/achinttiwari) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/achinttiwari)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/achinttiwari)
+<img src="./assets/terminal-intro.svg" alt="Terminal intro" width="700"/>
 
+<br/><br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=achinttiwari&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=achinttiwari&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=achinttiwari&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=achinttiwari&color=10B981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=achinttiwari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=achinttiwari&limit=5&theme=maroongold&combine_all_yearly_contributions=true)
+<br/>
 
----
+## `01` &nbsp; About Me
 
+I'm currently in my **3rd year of B.Tech in Computer Science**, specializing in **Cybersecurity** — but somewhere along the way, I fell for a different kind of security: the certainty of knowing *why* a model predicts what it predicts.
+
+I'm entirely **self-taught in AI & Machine Learning**, piecing together knowledge from scattered courses, docs, and papers across the internet. I don't learn well by reading theory in isolation — I learn by **getting my hands dirty and building**, breaking things, and figuring out why they broke. Parallelly, I **vibe-code** — moving fast, experimenting freely, and following curiosity over rigid roadmaps.
+
+I'm drawn to projects that aren't just functional but genuinely **beautiful** — I believe strong engineering and thoughtful design were never meant to be separate disciplines.
+
+The long-term goal is simple: become a full-fledged **AI Engineer**.
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Currently**
+Mastering Python & its ML/AI libraries
+
+**🌱 Learning**
+Machine Learning fundamentals & applied deep learning
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Core Specialization**
+Cybersecurity (B.Tech CSE)
+
+**🎯 Long-Term Goal**
+Becoming an AI Engineer
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` &nbsp; Tech Stack
+
+<div align="center">
+
+<sub>LANGUAGES</sub>
+
+<img src="https://skillicons.dev/icons?i=py,cpp,bash&theme=dark" />
+
+<sub>MACHINE LEARNING & DATA</sub>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+<sub>TOOLS & ENVIRONMENT</sub>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,mysql&theme=dark" />
+
+</div>
+
+<br/>
+
+## `03` &nbsp; GitHub Stats
+
+<div align="center">
+
+**🟡 Contributions, Pac-Man Style**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg" width="100%"/>
+</picture>
+
+<sub>⚠️ requires a one-time GitHub Action setup — see instructions below</sub>
+
+<br/><br/>
+
+**🏙️ Contributions, Isometric 3D**
+
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=achinttiwari&theme=dark&stats=true" width="100%"/>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=achinttiwari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&ring_color=10B981"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=achinttiwari&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinttiwari&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=achinttiwari&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## `04` &nbsp; Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/achinttiwari/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:achinttiwari.dev@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=10B981)](https://www.kaggle.com/achinttiwari)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=10B981)](https://leetcode.com/u/AchintTiwari/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=10B981)](https://codeforces.com/profile/achinttiwari)
+[![Google Developer](https://img.shields.io/badge/-Google%20Dev-000000?style=for-the-badge&logo=google&logoColor=10B981)](https://g.dev/Achinttiwari)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=10B981)](https://stackoverflow.com/users/32925970/achinttiwari)
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>⚙️ One-time setup: activating the Pac-Man graph</b></summary>
+<br/>
+
+The Pac-Man widget above needs a small GitHub Action to generate itself (GitHub doesn't allow live game logic in a static README, so it's baked into an SVG once a day):
+
+1. In this repo, create the file `.github/workflows/pacman.yml`
+2. Paste in the contents of the provided `pacman-contributions.yml` file
+3. Push the change, then go to the **Actions** tab → run the workflow once manually
+4. It will generate an `output` branch containing the SVG — after that, it refreshes automatically every day
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0D1117&height=100&section=footer" width="100%"/>
