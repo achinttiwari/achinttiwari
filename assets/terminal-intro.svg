@@ -41,7 +41,7 @@
     <text font-size="18" fill="#8b949e">&gt; Learning by building. Becoming an AI Engineer.</text>
   </g>
 
-  <!-- line 5 : status --live -->
+  <!-- line 5 : status flag -->
   <g transform="translate(28,222)" clip-path="url(#clip5)">
     <text font-size="18"><tspan fill="#10B981">achint@kali</tspan><tspan fill="#6e7681">:~$ </tspan><tspan fill="#E6EDF3">status --live</tspan></text>
   </g>
