@@ -83,7 +83,7 @@ Becoming an AI Engineer
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
-<sub>⚠️ requires a one-time GitHub Action setup — see instructions below</sub>
+<sub></sub>
 
 <br/><br/>
 
