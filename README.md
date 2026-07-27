@@ -43,31 +43,9 @@
 ## 01 📜 THE QUEST CHAIN
 *while you were gone, you learned*
 
+<img src="assets/quest-terminal.svg" width="100%" alt="roadmap terminal animation"/>
+
 </div>
-
-<table align="center" width="100%">
-<tr><td>
-
-**⚔️ Stage 1 — Foundations** `IN PROGRESS`
-Python fundamentals · Prompting · Programming logic · Git/GitHub
-
-**🗺️ Stage 2 — Data & Math Core**
-Pandas · NumPy · Matplotlib · Seaborn · Statistics & Linear Algebra · R
-
-**🛡️ Stage 3 — Classical Machine Learning**
-Regression & Classification · Model Evaluation · scikit-learn · XGBoost · SHAP
-
-**🔮 Stage 4 — Deep Learning**
-Neural Networks (ANNs) · CNNs · Transformers · TensorFlow · PyTorch
-
-**⚡ Stage 5 — Applied AI & Automation**
-LLM Tooling · Prompt Engineering · AI Agents · API Integration · RAG Systems
-
-**🏆 Stage 6 — Engineering & Deployment**
-Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
-
-</td></tr>
-</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
