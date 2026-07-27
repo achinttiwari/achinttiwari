@@ -11,12 +11,11 @@
 <td width="35%" align="center" valign="middle">
 <img src="assets/hero-sprite.png" width="220" alt="Achint pixel sprite"/>
 </td>
-<td width="65%" align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?size=20&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=I'm+a+self-taught+AI+Engineer+%E2%80%94+3rd+year+B.Tech+CSE+(Cybersecurity)+undergrad;gaining+skills+online+and+building+my+future+one+project+at+a+time.;AI+and+automation+fascinate+me.;I+learn+by+shipping%3A+hands-on+projects+first%2C+theory+close+behind.;Currently+leveling+up+from+%22vibe+coding%22+into+truly+understanding+what+I+build." alt="Typing SVG" />
+<td width="65%" align="left" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?size=18&duration=3500&pause=1000&color=A855F7&center=false&vCenter=true&width=800&lines=I'm+a+self-taught+AI+Engineer+%E2%80%94;3rd+year+B.Tech+CSE+(Cybersecurity)+undergrad+%E2%80%94;gaining+skills+online+and+building+my+future;one+project+at+a+time.;AI+and+automation+fascinate+me.;I+learn+by+shipping%3A+hands-on+projects+first%2C;theory+close+behind.;Currently+leveling+up+from+%22vibe+coding%22;into+truly+understanding+what+I+build." alt="Typing SVG" />
 </td>
 </tr>
 </table>
-
 <!-- ============ THE MISSION (ABOUT) ============ -->
 <div align="center">
 
