@@ -145,7 +145,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 ## 🕹️ TO BE CONTINUED...
 
-Want to team up or talk AI? **[Reach out →][mailto:achinttiwari.dev@gmail.com]**
+Want to team up or talk AI? **[Reach out →](mailto:achinttiwari.dev@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0764,100:1a0033&height=120&section=footer" width="100%"/>
 
