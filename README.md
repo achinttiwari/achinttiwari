@@ -3,13 +3,22 @@
 <!-- ============ HERO BANNER ============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3b0764,100:0d0221&height=220&section=header&text=ACHINT%20TIWARI&fontSize=48&fontColor=ff2e97&fontAlignY=38&animation=fadeIn&desc=Self-Taught%20AI%20Engineer%20%7C%20Builder%20by%20Repetition&descSize=18&descColor=e879f9&descAlignY=58" width="100%"/>
 
-<!-- TODO: swap this placeholder for the custom pixel sprite once generated -->
-<!-- suggested path: assets/hero-sprite.png (transparent bg, ~200x260px, idle-loop GIF if animated) -->
-<img src="assets/hero-sprite.png" width="180" alt="Achint pixel sprite — placeholder, swap in custom art"/>
+</div>
 
-<!-- ============ TYPING TAGLINE ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Self-Taught+AI+Engineer;Learning+Python+%2B+R;Building+ML+Models+by+Hand;Fascinated+by+AI+%26+Automation;Vibe+Coder+Turning+Real+Coder" alt="Typing SVG" />
+<!-- ============ HERO: SPRITE + ANIMATED TAGLINE SIDE-BY-SIDE ============ -->
+<table width="100%">
+<tr>
+<td width="35%" align="center" valign="middle">
+<img src="assets/hero-sprite.png" width="220" alt="Achint pixel sprite"/>
+</td>
+<td width="65%" align="center" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Self-Taught+AI+Engineer;3rd+Year+B.Tech+CSE+%28Cybersecurity%29;Learning+by+Building%2C+Not+Just+Reading;Fascinated+by+AI+%26+Automation;Vibe+Coder+%E2%86%92+Turning+Real+Coder" alt="Typing SVG" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient" width="100%"/>
 
 </div>
@@ -64,10 +73,6 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
 </div>
 
-<!-- ============ EQUIPPED ITEMS (TOOLS & STACK) ============ -->
-<div align="center">
-
-
 <!-- ============ BATTLE LOG (LIVE GITHUB STATS) ============ -->
 <div align="center">
 
@@ -83,11 +88,10 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
 </div>
 
-<!-- ============ FOOTER ============ -->
+<!-- ============ EQUIPPED ITEMS (TOOLS & STACK) ============ -->
 <div align="center">
-    
+
 ## 03 🛠️ Equipped Items
-<div align="center">
 
 <sub>LANGUAGES</sub>
 
@@ -105,9 +109,9 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <br/>
 
+<div align="center">
+
 ## `04` &nbsp; GitHub Stats
-
-
 
 **🏙️ Contributions, Isometric 3D**
 
@@ -130,6 +134,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/achinttiwari)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/achinttiwari/)
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:achinttiwari.dev@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=A855F7)](https://www.kaggle.com/achinttiwari)
@@ -142,8 +147,9 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <br/>
 
-
 ## 🕹️ TO BE CONTINUED...
+
+<div align="center">
 
 Want to team up or talk AI? **[Reach out →](mailto:achinttiwari.dev@gmail.com)**
 
