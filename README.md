@@ -12,16 +12,10 @@
 <img src="assets/hero-sprite.png" width="220" alt="Achint pixel sprite"/>
 </td>
 <td width="65%" align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Self-Taught+AI+Engineer;3rd+Year+B.Tech+CSE+%28Cybersecurity%29;Learning+by+Building%2C+Not+Just+Reading;Fascinated+by+AI+%26+Automation;Vibe+Coder+%E2%86%92+Turning+Real+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?size=20&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=I'm+a+self-taught+AI+Engineer+%E2%80%94+3rd+year+B.Tech+CSE+(Cybersecurity)+undergrad;gaining+skills+online+and+building+my+future+one+project+at+a+time.;AI+and+automation+fascinate+me.;I+learn+by+shipping%3A+hands-on+projects+first%2C+theory+close+behind.;Currently+leveling+up+from+%22vibe+coding%22+into+truly+understanding+what+I+build." alt="Typing SVG" />
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient" width="100%"/>
-
-</div>
 
 <!-- ============ THE MISSION (ABOUT) ============ -->
 <div align="center">
