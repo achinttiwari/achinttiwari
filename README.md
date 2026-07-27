@@ -31,7 +31,7 @@
 <!-- ============ QUEST CHAIN (ROADMAP) ============ -->
 <div align="center">
 
-## 📜 THE QUEST CHAIN
+## 01 📜 THE QUEST CHAIN
 *while you were gone, you learned*
 
 </div>
@@ -71,7 +71,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 <!-- ============ BATTLE LOG (LIVE GITHUB STATS) ============ -->
 <div align="center">
 
-## ⚡ BATTLE LOG
+## 02 ⚡ BATTLE LOG
 *Live activity, auto-updated*
 
 <!-- Contribution snake — populated by GitHub Action, see .github/workflows/snake.yml -->
@@ -85,7 +85,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
-##  🛠️ EQUIPPED ITEMS
+## 02 ⚡ EQUIPPED ITEMS
 
 <div align="center">
 
