@@ -142,42 +142,6 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <br/>
 
-<details>
-<summary><b>⚙️ One-time setup: activating the Pac-Man graph</b></summary>
-<br/>
-
-The Pac-Man widget above needs a small GitHub Action to generate itself (GitHub doesn't allow live game logic in a static README, so it's baked into an SVG once a day):
-
-1. In this repo, create the file `.github/workflows/pacman.yml`
-2. Paste in the contents of the provided `pacman-contributions.yml` file
-3. Push the change, then go to the **Actions** tab → run the workflow once manually
-4. It will generate an `output` branch containing the SVG — after that, it refreshes automatically every day
-
-</details>
-
-<details>
-<summary><b>🩺 Troubleshooting: terminal intro not showing</b></summary>
-<br/>
-
-If the terminal graphic at the top shows a broken image icon instead of the animation:
-
-1. Confirm `assets/terminal-intro.svg` was actually committed to the repo, at the exact path `assets/terminal-intro.svg` (case-sensitive), on your default branch
-2. If it's there and still broken, swap the `src` in the README's `<img src="./assets/terminal-intro.svg">` line for this jsDelivr CDN link instead, which is more reliable for custom repo-hosted SVGs:
-   `https://cdn.jsdelivr.net/gh/achinttiwari/achinttiwari@main/assets/terminal-intro.svg`
-
-</details>
-
-<details>
-<summary><b>🩺 Troubleshooting: stats/top-languages cards not showing</b></summary>
-<br/>
-
-The `github-readme-stats.vercel.app` service (used for the main stats card and top-languages card) is a free public instance that's had frequent outages and rate-limit issues recently — this is a widely reported problem with the service itself, not something wrong in your README. The streak-stats card runs on a separate, more stable service, which is why it tends to keep working even when the others don't.
-
-If it's down for you: it usually resolves within a few hours, so a refresh later often fixes it. If you want a permanently reliable version instead of depending on the public API, let me know and I can set you up with an Action-based version (same idea as the Pac-Man graph — generates a static image daily instead of relying on a live service).
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0D1117&height=100&section=footer" width="100%"/>
 
 ## 🕹️ TO BE CONTINUED...
 
