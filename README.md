@@ -5,6 +5,8 @@
 
 </div>
 
+## 🎮 THE MISSION
+
 <!-- ============ HERO: SPRITE + ANIMATED TAGLINE SIDE-BY-SIDE ============ -->
 <table width="100%">
 <tr>
@@ -19,19 +21,6 @@
 <!-- ============ THE MISSION (ABOUT) ============ -->
 <div align="center">
 
-## 🎮 THE MISSION
-
-</div>
-
-> I'm a self-taught AI Engineer — 3rd year B.Tech CSE (Cybersecurity) undergrad — gaining skills online and building my future one project at a time.
-> AI and automation fascinate me. I learn by shipping: hands-on projects first, theory close behind. Currently leveling up from "vibe coding" into truly understanding what I build.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
-</div>
-
-<!-- ============ QUEST CHAIN (ROADMAP) ============ -->
-<div align="center">
 
 ## 01 📜 THE QUEST CHAIN
 *while you were gone, you learned*
