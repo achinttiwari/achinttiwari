@@ -85,7 +85,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
- ## `03` &nbsp; Equipped Items
+## `03` &nbsp; Equipped Items
 
 <div align="center">
 
