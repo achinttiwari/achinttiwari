@@ -85,7 +85,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
-## 02 ⚡ BATTLE LOG
+ ## `03` &nbsp; Equipped Items
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
 
 <br/>
 
-## `03` &nbsp; GitHub Stats
+## `04` &nbsp; GitHub Stats
 
 
 
