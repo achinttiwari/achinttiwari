@@ -23,7 +23,7 @@
 
 
 ## 01 📜 THE QUEST CHAIN
-*while you were gone, you learned*
+
 
 <img src="assets/quest-terminal.svg" width="100%" alt="roadmap terminal animation"/>
 
