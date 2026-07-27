@@ -1,124 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=220&section=header&text=Achint%20Tiwari&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Undergrad&descAlignY=55&descSize=18&descColor=10B981" width="100%"/>
+<!-- ============ HERO BANNER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3b0764,100:0d0221&height=220&section=header&text=ACHINT%20TIWARI&fontSize=48&fontColor=ff2e97&fontAlignY=38&animation=fadeIn&desc=Self-Taught%20AI%20Engineer%20%7C%20Builder%20by%20Repetition&descSize=18&descColor=e879f9&descAlignY=58" width="100%"/>
 
-<br/>
+<!-- TODO: swap this placeholder for the custom pixel sprite once generated -->
+<!-- suggested path: assets/hero-sprite.png (transparent bg, ~200x260px, idle-loop GIF if animated) -->
+<img src="assets/hero-sprite.png" width="180" alt="Achint pixel sprite — placeholder, swap in custom art"/>
 
-<img src="./assets/terminal-intro.svg" alt="Terminal intro" width="700"/>
+<!-- ============ TYPING TAGLINE ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Self-Taught+AI+Engineer;Learning+Python+%2B+R;Building+ML+Models+by+Hand;Fascinated+by+AI+%26+Automation;Vibe+Coder+Turning+Real+Coder" alt="Typing SVG" />
+</a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=achinttiwari&color=10B981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient" width="100%"/>
 
 </div>
 
-<br/>
+<!-- ============ THE MISSION (ABOUT) ============ -->
+<div align="center">
 
-## `01` &nbsp; About Me
+## 🎮 THE MISSION
 
-I'm currently in my **3rd year of B.Tech in Computer Science**, specializing in **Cybersecurity** — but somewhere along the way, I fell for a different kind of security: the certainty of knowing *why* a model predicts what it predicts.
+</div>
 
-I'm entirely **self-taught in AI & Machine Learning**, piecing together knowledge from scattered courses, docs, and papers across the internet. I don't learn well by reading theory in isolation — I learn by **getting my hands dirty and building**, breaking things, and figuring out why they broke. Parallelly, I **vibe-code** — moving fast, experimenting freely, and following curiosity over rigid roadmaps.
+> I'm a self-taught AI Engineer — 3rd year B.Tech CSE (Cybersecurity) undergrad — gaining skills online and building my future one project at a time.
+> AI and automation fascinate me. I learn by shipping: hands-on projects first, theory close behind. Currently leveling up from "vibe coding" into truly understanding what I build.
 
-I'm drawn to projects that aren't just functional but genuinely **beautiful** — I believe strong engineering and thoughtful design were never meant to be separate disciplines.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
+</div>
 
-The long-term goal is simple: become a full-fledged **AI Engineer**.
+<!-- ============ QUEST CHAIN (ROADMAP) ============ -->
+<div align="center">
 
-<br/>
+## 📜 THE QUEST CHAIN
+*while you were gone, you learned*
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+</div>
 
-**🔭 Currently**
-Mastering Python & its ML/AI libraries
+<table align="center" width="100%">
+<tr><td>
 
-**🌱 Learning**
-Machine Learning fundamentals & applied deep learning
+**⚔️ Stage 1 — Foundations** `IN PROGRESS`
+Python fundamentals · Prompting · Programming logic · Git/GitHub
 
-</td>
-<td width="50%" valign="top">
+**🗺️ Stage 2 — Data & Math Core**
+Pandas · NumPy · Matplotlib · Seaborn · Statistics & Linear Algebra · R
 
-**🛡️ Core Specialization**
-Cybersecurity (B.Tech CSE)
+**🛡️ Stage 3 — Classical Machine Learning**
+Regression & Classification · Model Evaluation · scikit-learn · XGBoost · SHAP
 
-**🎯 Long-Term Goal**
-Becoming an AI Engineer
+**🔮 Stage 4 — Deep Learning**
+Neural Networks (ANNs) · CNNs · Transformers · TensorFlow · PyTorch
 
-</td>
-</tr>
+**⚡ Stage 5 — Applied AI & Automation**
+LLM Tooling · Prompt Engineering · AI Agents · API Integration · RAG Systems
+
+**🏆 Stage 6 — Engineering & Deployment**
+Gradio · Streamlit · Flask APIs · Cloud & MLOps Basics · Public Portfolio
+
+</td></tr>
 </table>
 
-<br/>
-
-## `02` &nbsp; Tech Stack
-
 <div align="center">
-
-<sub>LANGUAGES</sub>
-
-<img src="https://skillicons.dev/icons?i=py,cpp,bash&theme=dark" />
-
-<sub>MACHINE LEARNING & DATA</sub>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-
-<sub>TOOLS & ENVIRONMENT</sub>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,mysql&theme=dark" />
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
 </div>
 
-<br/>
-
-## `03` &nbsp; GitHub Stats
-
+<!-- ============ EQUIPPED ITEMS (TOOLS & STACK) ============ -->
 <div align="center">
 
-**🟡 Contributions, Pac-Man Style**
+## 🛠️ EQUIPPED ITEMS
+*Tools, languages & software in active rotation*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/pacman-contribution-graph-dark.svg" width="100%"/>
-</picture>
+<br/>
 
-<sub></sub>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
 
 <br/><br/>
 
-**🏙️ Contributions, Isometric 3D**
-
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=achinttiwari&theme=dark&stats=true" width="100%"/>
+**Data & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4899?style=for-the-badge&logo=xgboost&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/SHAP-9333EA?style=for-the-badge&logoColor=white" height="47"/>
+<img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achinttiwari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&ring_color=10B981&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=achinttiwari&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+**Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinttiwari&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8&cache_seconds=86400"/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=achinttiwari&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true"/>
+**Dev Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+
+<br/><br/>
+
+**AI Assistants**
+<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Antigravity-1a0033?style=for-the-badge&logo=google&logoColor=white" height="47"/>
+
+<br/><br/>
+
+**Productivity**
+<br/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="47"/>
 
 </div>
-
-<br/>
-
-## `04` &nbsp; Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/achinttiwari/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:achinttiwari.dev@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=10B981)](https://www.kaggle.com/achinttiwari)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=10B981)](https://leetcode.com/u/AchintTiwari/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=10B981)](https://codeforces.com/profile/achinttiwari)
-[![Google Developer](https://img.shields.io/badge/-Google%20Dev-000000?style=for-the-badge&logo=google&logoColor=10B981)](https://g.dev/Achinttiwari)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=10B981)](https://stackoverflow.com/users/32925970/achinttiwari)
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
 </div>
+
+<!-- ============ THE PARTY (SOCIALS) ============ -->
+<div align="center">
+
+## 👥 THE PARTY
+*Recruit me to your guild*
 
 <br/>
 
+<a href="https://github.com/achinttiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/></a>
+<a href="https://www.linkedin.com/in/achinttiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/></a>
+<a href="https://www.kaggle.com/achinttiwari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="50"/></a>
+<a href="https://stackoverflow.com/users/32925970/achinttiwari"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="50"/></a>
+<a href="https://leetcode.com/u/AchintTiwari"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50"/></a>
+<a href="https://g.dev/Achinttiwari"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" height="50"/></a>
+<a href="mailto:achinttiwari.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0D1117&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
+</div>
+
+<!-- ============ BATTLE LOG (LIVE GITHUB STATS) ============ -->
+<div align="center">
+
+## ⚡ BATTLE LOG
+*Live activity, auto-updated*
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=achinttiwari&show_icons=true&theme=radical&bg_color=0d0221&title_color=ff2e97&icon_color=ec4899&text_color=e879f9&border_color=3b0764&border_radius=10" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=achinttiwari&theme=radical&background=0d0221&stroke=3b0764&ring=ec4899&fire=ff2e97&currStreakLabel=e879f9&border_radius=10" width="48%"/>
+
+<br/><br/>
+
+<!-- Contribution snake — populated by GitHub Action, see .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
+</div>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+
+## 🕹️ TO BE CONTINUED...
+
+Want to team up or talk AI? **[Reach out →](mailto:achinttiwari.dev@gmail.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0764,100:1a0033&height=120&section=footer" width="100%"/>
+
+<sub>Last save point: auto-updated via GitHub Actions</sub>
+
+</div>
