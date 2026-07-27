@@ -9,9 +9,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Self-Taught+AI+Engineer;Learning+Python+%2B+R;Building+ML+Models+by+Hand;Fascinated+by+AI+%26+Automation;Vibe+Coder+Turning+Real+Coder" alt="Typing SVG" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Self-Taught+AI+Engineer;Learning+Python+%2B+R;Building+ML+Models+by+Hand;Fascinated+by+AI+%26+Automation;Vibe+Coder+Turning+Real+Coder" alt="Typing SVG" />
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&color=gradient" width="100%"/>
 
 </div>
